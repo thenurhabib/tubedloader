@@ -8,7 +8,7 @@ TubeDloader is a Command-line interface Based YouTube Video Downloader Script.
 `apt-get upgrade` <br>
 `pkg install git` <br>
 `pkg install python3` <br>
-`pip install pytube`
+`pip install pytube` <br>
 `git clone https://github.com/nurhabib1/tubedloader` <br>
 `cd TubeDloader` <br>
 `.python3 TubeDloader.py` 
